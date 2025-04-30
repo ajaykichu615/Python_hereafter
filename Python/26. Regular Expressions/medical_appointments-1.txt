@@ -1,0 +1,10 @@
+AppointmentID: MA001 | Name: John Doe | Doctor: Dr. Smith | Date: 2025-04-01 | Time: 09:30 | Department: Cardiology | Fee: $150  
+AppointmentID: MA002 | Name: Alice Brown | Doctor: Dr. Evans | Date: 2025-04-01 | Time: 10:00 | Department: Dermatology | Fee: $100  
+AppointmentID: MA003 | Name: Michael Lee | Doctor: Dr. Smith | Date: 2025-04-02 | Time: 14:30 | Department: Cardiology | Fee: $150  
+AppointmentID: MA004 | Name: Sara Kim | Doctor: Dr. Patel | Date: 2025-04-02 | Time: 11:15 | Department: Neurology | Fee: $200  
+AppointmentID: MA005 | Name: John Doe | Doctor: Dr. Smith | Date: 2025-04-03 | Time: 15:00 | Department: Cardiology | Fee: $150  
+AppointmentID: MA006 | Name: Alice Brown | Doctor: Dr. Evans | Date: 2025-04-03 | Time: 12:30 | Department: Dermatology | Fee: $100  
+AppointmentID: MA007 | Name: Tom White | Doctor: Dr. Green | Date: 2025-04-04 | Time: 16:45 | Department: Pediatrics | Fee: $80  
+AppointmentID: MA008 | Name: Michael Lee | Doctor: Dr. Smith | Date: 2025-04-05 | Time: 10:30 | Department: Cardiology | Fee: $150  
+AppointmentID: MA009 | Name: John Doe | Doctor: Dr. Patel | Date: 2025-04-05 | Time: 13:00 | Department: Neurology | Fee: $200  
+AppointmentID: MA010 | Name: Sara Kim | Doctor: Dr. Evans | Date: 2025-04-06 | Time: 09:00 | Department: Dermatology | Fee: $100
